@@ -30,5 +30,3 @@ def bin_tree(root=1, height=5, left_way = lambda x: x*2, right_way = lambda y: y
     
     except Exception as e:
         raise BinTree(f'Найдена ошибка при построении бинарного дерева: {e}')
-
-print(bin_tree(1, 5))

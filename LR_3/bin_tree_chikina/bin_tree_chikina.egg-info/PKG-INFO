@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: bin_tree_chikina
+Version: 0.0.2
+Summary: Python module for build been tree
+Home-page: https://github.com/chikKik/Python-lab-3nd-course/tree/main/LR_3
+Author: ChikinaAO
+Author-email: arin.tchikina@yandex.ru
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: summary
+
+### Описание
+
+Пакет по построению бинарного дерева с помощью рекурсии
