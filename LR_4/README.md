@@ -1,4 +1,3 @@
-# Python-lab-3nd-course
 
 Для запуска сервера uvicorn использовалась команда:</br>
 ``` python -m uvicorn LR_4:app ```
