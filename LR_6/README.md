@@ -116,3 +116,11 @@
 | Threading   | Фоновое обновление данных  |
 | REST API   | HTTP эндпоинты для данных  |
 | XML Parsing   | Обработка данных от ЦБ РФ  |
+
+---------------
+
+## Демонстрация работы
+<img width="1063" height="955" alt="image" src="https://github.com/user-attachments/assets/bf186ec9-f879-4b43-96de-8358b7394e55" />
+<img width="1695" height="946" alt="image" src="https://github.com/user-attachments/assets/7a5c3fd1-fae6-4f01-b5f1-c279a9da9aea" />
+<img width="1789" height="628" alt="image" src="https://github.com/user-attachments/assets/f1a18f5d-613c-4d96-909f-863bcbdc2890" />
+
