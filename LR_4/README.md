@@ -1,6 +1,8 @@
 
 Для запуска сервера uvicorn использовалась команда:</br>
-``` python -m uvicorn LR_4:app ```
+`python -m uvicorn LR_4_without_db:app`
+или
+`python -m uvicorn LR_4_sqlite3:app`
 
 Глоссарий поддерживает следующие операции:</br>
 
